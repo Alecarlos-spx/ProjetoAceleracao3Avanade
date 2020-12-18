@@ -1,0 +1,8 @@
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.deps.json
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfoInputs.cache
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfo.cs
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CoreCompileInputs.cache
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.dll
+C:\projetos\digitalinnovation\Aceleracao avanade3\Projeto AzureServiceBus\Vendas_AzureServiceBus\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.pdb
