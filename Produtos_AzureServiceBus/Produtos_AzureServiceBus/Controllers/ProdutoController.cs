@@ -40,12 +40,13 @@ namespace Produtos_AzureServiceBus.Controllers
             return Ok(await _produtoService.GetAsync(id));
         }
 
-        [HttpGet]
-        [Route("{codProduto}")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        public IActionResult GetCodigoProduto(string codProduto)
+        [HttpGet("codigoProduto/{codigoProduto}")]
+        [ProducesResponseType(statusCode: 200, Type = typeof(ProdutoModel))]
+        [ProducesResponseType(statusCode: 500, Type = typeof(ErrorResponse))]
+        [ProducesResponseType(statusCode: 404, Type = typeof(ErrorResponse))]
+        public IActionResult GetCodigoProduto(string codigoProduto)
         {
-            return Ok(_produtoService.GetCodigo(codProduto));
+            return Ok(_produtoService.GetCodigo(codigoProduto));
         }
 
 
